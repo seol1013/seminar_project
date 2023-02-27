@@ -1,0 +1,136 @@
+
+
+.navbar-brand {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    padding: 2rem;
+    border-radius: 12px;
+    background-color: #FFA01E;
+  }
+ 
+  .navbar-nav-sub{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    padding: 2rem;
+    border-radius: 12px;
+    background-color: #fff;
+    width :200px;
+  }
+ 
+ 
+  navbar-nav-gong
+
+.nav-sub{
+    float : left;
+}
+
+  .nav-item{
+    list-style : none;
+    position : relative;
+    color : #fff;
+  }
+
+
+  .no{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    margin: auto;
+    width: 30%;
+    height: 160px;
+    border-radius: 12px;
+    background-color: #FFA01E;
+    border: 1px solid #000000;
+  }
+
+  .vita-space{
+    
+        display: flex;
+        padding: 10px;
+        
+    
+  }
+  /*.nav-item-NotA{
+
+
+  }*/
+
+
+
+  .nav-link{
+    color : #000;
+    font: small-caps bold 24px/1 sans-serif;
+    
+    
+  }
+
+.search-body{
+    height: 40px;
+    width: 400px;
+    border: 1px solid #86A5FF;
+    background: #fff;
+
+}
+.search{
+    font-size: 16px;
+    width:325px;
+    padding: 10px;
+    border: 0px;
+    outline: none;
+    float: left;
+}
+.search-button{
+    width: 50px;
+    height: 100px;
+    border: 0px;
+    background: #86A5FF;
+    outline: none;
+    float: right;
+    color: #fff;
+
+}
+
+.sc-9110122-0{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    list-style: none;
+    flex-direction: column;
+    gap: 8px;
+    padding: 0px 20px 100px;
+}
+.sc-9110122-1{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.sc-9110122-2{
+    display: flex;
+    background: #86A5FF;
+    box-sizing: border-box;
+    border-radius: 12px;
+    margin : 10px;
+}
+
+.sc-9110122-3{
+    font-family: 'Black Han Sans', sans-serif;
+
+}
