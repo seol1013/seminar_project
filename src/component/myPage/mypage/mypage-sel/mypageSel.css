@@ -1,0 +1,45 @@
+.mypage-sel-border{
+    
+    border: 1px solid #000;
+    box-sizing: border-box;
+    
+    
+    margin: 40px 40px 40px 40px;
+}
+.mypage-sel-1{/*   h1의 a글자*/
+    text-decoration-line: none;
+    text-align: center; 
+    color: #000;
+    font-size: 40px;
+    font-family: Garamond;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    
+}
+
+
+.mypage-sel-line{
+    width: 100px;
+}
+
+.mypage-sel-2{/*   ul*/
+    margin: 1em 5em 1em -1.2em;
+    text-align :left;
+    line-height: 2em;
+    
+}
+
+.mypage-sel-3{ /*   li*/
+    list-style:none;
+    
+}
+
+.mypage-sel-4{ /*   h2의 a글자*/
+    
+    font-size:16px;
+    color: #000;
+    font-weight: 800;
+    text-decoration-line: none;
+    
+    
+}
